@@ -1,0 +1,4 @@
+tensorflow==2.12
+opencv-python-headless==4.8.1.78
+numpy
+gradio
